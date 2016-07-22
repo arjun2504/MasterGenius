@@ -1,0 +1,89 @@
+.fstyle
+{
+	width: 97.5%;
+	min-height: auto;
+	background-color: #f3f5f8;
+	padding: 10px;
+}
+.fstyleproc
+{
+	width: 97.5%;
+	min-height: 1px;
+	background-color: #f3f5f8;
+	background-repeat: repeat;
+	margin: 0px;
+	overflow:hidden; zoom:1;
+	padding: 10px;
+}
+.fstyletem
+{
+	width: 97.5%;
+	min-height: 120%;
+	background-color: #f3f5f8;
+}
+.formribbon
+{
+	width: 97.5%;
+	height: auto;
+	background-color: #D6EBFF;
+	padding: 10px;
+	padding-bottom: 0.5px;
+}
+.boxes
+{
+	width: 96%;
+	height: auto;
+	padding: 10px;
+	background-color: #FCFCF1;
+	margin-bottom: 3px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E0E0E0;
+}
+.boxes:hover
+{
+	width: 96%;
+	height: auto;
+	padding: 10px;
+	background-color: transparent;
+	margin-bottom: 3px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E0E0E0;
+}
+.tarea
+{
+	-webkit-box-shadow: inset 2px 2px 2px 0px #dddddd;
+    -moz-box-shadow: inset 2px 2px 2px 0px #dddddd;
+    box-shadow: inset 2px 2px 2px 0px #dddddd;
+    height: 200px;
+    margin: 10px;
+    overflow: auto;
+    padding: 7px 10px;
+    width: 500px;    
+    font-family: tahoma;
+    font-size: 13px;
+    border: 1px solid #aaa;
+}
+.showt
+{
+	//-webkit-box-shadow: inset 2px 2px 2px 0px #dddddd;
+    //-moz-box-shadow: inset 2px 2px 2px 0px #dddddd;
+    //box-shadow: inset 2px 2px 2px 0px #dddddd;
+	width: 97%;
+	height: auto;
+	padding: 10px;	
+}
+.imgshw
+{
+	width: 160px;
+	height: 160px;
+	padding: 20px;
+	float: left;
+}.thrshw
+{
+	width: auto;
+	min-height: 220px;
+	padding: 10px;
+	margin-left: 200px;
+}

@@ -1,0 +1,71 @@
+.message
+{
+	width: 97%;
+	padding: 10px;
+	background-color: transparent;
+	color: black;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E0E0E0;
+	margin-bottom: 3px;
+}
+.message:hover
+{
+	width: 97%;
+	padding: 10px;
+	background-color: transparent;
+	color: black;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	margin-bottom: 3px;
+}
+.messageread
+{
+	width: 97%;
+	padding: 10px;
+	background-color: #FFFFCC;
+	color: black;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E0E0E0;
+	margin-bottom: 3px;
+}
+.messageread:hover
+{
+	width: 97%;
+	padding: 10px;
+	background-color: #FFFFCC;
+	color: black;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	margin-bottom: 3px;
+}
+.options
+{
+	width: auto;
+	height: auto;
+	//background-color: white;
+	float: right;
+}
+.hintbox
+{
+	width: 97%;
+	background-color: #FFFFCC;
+	border-color: #E0E0E0;
+	border-style: solid;
+	border-width: 1px;
+	height: auto;
+	padding: 10px;
+}
+.hintbox1
+{
+	width: 97%;
+	background-color: #FFFFCC;
+	border-color: #E0E0E0;
+	border-style: solid;
+	border-width: 1px;
+	height: auto;
+	padding: 10px;
+}
